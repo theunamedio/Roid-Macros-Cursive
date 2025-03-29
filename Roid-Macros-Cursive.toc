@@ -1,0 +1,11 @@
+## Interface: 11200
+## Author: TheUnamed (theunamedio)
+## Title: Roid Macros: Cursive
+## Notes: Roid Macros Bridge to Cursive
+## Title-deDE: Roid Macros: Cursive
+## Notes-deDE: Roid Macros Bridge zu Cursive
+## Dependencies: Roid-Macros, Cursive
+
+initialization.lua
+console.lua
+core.lua
