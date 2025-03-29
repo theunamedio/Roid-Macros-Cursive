@@ -21,7 +21,7 @@
 ```
 /curse [conditions] Spell_Name
 ```
-- `[conditions]` – Optional Roid-Macros conditions (e.g., `nocooldown`, `combat`, `target=player`).
+- `[conditions]` – Optional Roid-Macros conditions (e.g., `nocooldown`, `combat`, `harm`).
 - `Spell_Name` – The name of the spell you want to cast (must match the spell name in Cursive's tracking).
 
 ### Examples
