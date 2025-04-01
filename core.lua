@@ -7,6 +7,8 @@ local _G = _G or getfenv(0);
 local Roids = _G.Roids or {};
 local RoidsCursive = _G.RoidsCursive or {};
 
+_G.RoidsCursive = RoidsCursive;
+
 -- Attempts to curse a target via cursive 
 -- message: The player's macro text
 function RoidsCursive.doCurse(message)

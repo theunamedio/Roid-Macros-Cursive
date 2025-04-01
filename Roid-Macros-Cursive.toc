@@ -7,6 +7,5 @@
 ## Notes-deDE: Roid Macros Bridge zu Cursive
 ## Dependencies: Roid-Macros, Cursive
 
-initialization.lua
-console.lua
 core.lua
+console.lua
