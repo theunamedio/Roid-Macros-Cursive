@@ -1,9 +1,9 @@
 ## Interface: 11200
 ## Author: TheUnamed (theunamedio)
 ## Version: 1.0.1
-## Title: Roid Macros |CFF611adbCursive|R |CFF8080801.0.0|R
+## Title: Roid Macros |CFF611adbCursive|R |CFF8080801.0.1|R
 ## Notes: Roid Macros Bridge to Cursive
-## Title-deDE: Roid Macros |CFF611adbCursive|R |CFF8080801.0.0|R
+## Title-deDE: Roid Macros |CFF611adbCursive|R |CFF8080801.0.1|R
 ## Notes-deDE: Roid Macros Bridge zu Cursive
 ## Dependencies: Roid-Macros, Cursive
 
